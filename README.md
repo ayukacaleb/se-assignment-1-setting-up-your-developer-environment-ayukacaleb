@@ -13,30 +13,8 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
-Below are steps and Screenshots of Windows 11 Installation:
-
-a. Download Windows 11:
-   - Visit the official Microsoft website: [Windows 11 Download] (https://www.microsoft.com/software-download/windows11).
-   - Download the Windows 11 Installation Assistant.
-   - Run the downloaded file and follow the on-screen instructions to upgrade or install Windows 11.
-
-![alt text](image.png)
-b. 2. Installation Process:
-   - Ensure your PC meets the minimum system requirements.
-   - Back up your important files.
-   - Follow the installation steps, including selecting the installation type, partitioning your hard drive if necessary, and configuring initial settings.
-
-![alt text](image-1.png)
-
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-
-
-
-
-
-
-
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
